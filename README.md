@@ -16,10 +16,10 @@ Bitly Short link generator Bot
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lntechnical2/BitlyBot)
 
 ## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/Shifan1bot">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
+<a href="https://www.youtube.com/channel/UC8gu2OeVLPz-l6sLsEGVmMg">
    <p> YouTube </p>
   </a>
 
